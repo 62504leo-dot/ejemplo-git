@@ -6,3 +6,4 @@ Indicaciones:
   en el archivo requirements.txt
        pip install -r requirements.txt
 4.archivo modificado desde github
+5.Nueva actualizacion local
